@@ -1,0 +1,3 @@
+{"ssd_folder":"/home/gidi/cloned_libs/ssd_keras//",
+ "data_folder":"/home/gidi/data/extra",
+"ssd_base_weights":"/home/gidi/models/VGG_coco_SSD_300x300_iter_400000.h5"}
